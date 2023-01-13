@@ -4,6 +4,8 @@ Con este pequeño proyecto puedes hacer la conversión de divisa de las siguient
 - Cordoba a dolar
 - Dolar a cordoba
 
+Las instrucciones para que el proyecto te funcione son las siguientes:
+
 ``` 
     git clone
     env/Scripts/activate
