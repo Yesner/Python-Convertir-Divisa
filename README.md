@@ -30,7 +30,7 @@ Las instrucciones para que el proyecto te funcione son las siguientes:
 
 
 
-![Image text] (https://github.com/Yesner/Python-Convertir-Divisa/blob/e7d7714f6d655f58ecd8c6524175a2b4ddbdb3cc/assets/Container.png)
+![Image text](https://github.com/Yesner/Python-Convertir-Divisa/blob/e7d7714f6d655f58ecd8c6524175a2b4ddbdb3cc/assets/Container.png)
 
 
-![Image text] (https://github.com/Yesner/Python-Convertir-Divisa/blob/e7d7714f6d655f58ecd8c6524175a2b4ddbdb3cc/assets/result.png)
+![Image text](https://github.com/Yesner/Python-Convertir-Divisa/blob/e7d7714f6d655f58ecd8c6524175a2b4ddbdb3cc/assets/result.png)
